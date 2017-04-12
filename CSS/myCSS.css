@@ -10,15 +10,6 @@ margin : 0 auto;
 background :url(/image/myHeader.png) no-repeat
 }
 
-a.sitetitle {
-    display: block;
-    float: left;
-    margin: 45px 20px 0;
-    width: 240px;
-    height: 60px;
-    background: url(/image/ohsoft_logo_shadow.png) no-repeat;
-}
-
 #myNav {
     position: absolute;
     bottom: 0;
