@@ -42,6 +42,6 @@ background :url(/image/myHeader.png) no-repeat
     margin-right: 20px;
 }
 
-div#myHeader {
+Header {
     background :url(/image/background.png) no-repeat
 }
