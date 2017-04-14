@@ -40,6 +40,7 @@ background :url(/image/myHeader.png) no-repeat
     height: 60px;
     line-height: 60px;
     margin-right: 20px;
+    color:white;
 }
 
 Header {
