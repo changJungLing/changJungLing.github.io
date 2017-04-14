@@ -43,5 +43,5 @@ background :url(/image/myHeader.png) no-repeat
 }
 
 Header {
-    background :url(/image/myHeader1.png) no-repeat
+    background :url(/image/myHeader1.png) repeat
 }
