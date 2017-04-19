@@ -41,6 +41,8 @@ background :url(/image/myHeader.png) no-repeat
     line-height: 60px;
     margin-right: 20px;
     color:white;
+    margin-right: 1px;
+    padding: 0 10px;
 }
 
 Header {
@@ -50,3 +52,4 @@ Header {
 .myMenu  li a img {
     vertical-align: middle;
 }
+
