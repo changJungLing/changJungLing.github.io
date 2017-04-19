@@ -46,3 +46,7 @@ background :url(/image/myHeader.png) no-repeat
 Header {
     background :url(/image/myHeader1.png) repeat
 }
+
+.myMenu  li a img {
+    vertical-align: middle;
+}
