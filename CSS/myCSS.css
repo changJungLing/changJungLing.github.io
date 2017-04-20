@@ -59,3 +59,11 @@ Header {
     clear: both;
     padding: 5px 10px 0;
 }
+
+.left{
+    float:left;
+}
+
+.right{
+    float:right;
+}
