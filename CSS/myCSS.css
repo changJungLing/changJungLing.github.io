@@ -84,6 +84,15 @@ Header {
     clear:both;
 }
 
+.nav_up {
+    display: block;
+    margin: 0 auto;
+    width: 72px;
+    height: 37px;
+    cursor: pointer;
+    background: url(/image/gotop.png);
+}
+
 footer {
     clear: both;
     background: #fff;
